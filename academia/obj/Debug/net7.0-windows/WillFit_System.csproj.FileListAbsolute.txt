@@ -1,0 +1,288 @@
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.exe
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.deps.json
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.pdb
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\refint\WillFit_System.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.pdb
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\ref\WillFit_System.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_Aluno.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_Inicial.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_Professor.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Properties.Resources.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\RestSharp.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Aluno.Cadastrar_Aluno.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.CopyComplete
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Aluno.Update_Aluno.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Criar_Professor.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Get_Professores.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Treinos.Criar_Treino.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Treinos.Get_Treino.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew..resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.ALUNO.Delete_Aluno.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.ALUNO.Get_Aluno.resources
+C:\Users\willi\OneDrive\Documentos\POO_Material\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Gerencial_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.exe
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.deps.json
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.runtimeconfig.json
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.pdb
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\RestSharp.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.AssemblyReference.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Properties.Resources.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_Inicial.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_professor.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew..resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Aluno.Cadastrar_ALUNO.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.ALUNO.Delete_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.ALUNO.Get_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Aluno.Update_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Criar_Professor.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Gerencial_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Get_Professores.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Treinos.Criar_Treino.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Treinos.Get_Treino.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.GenerateResource.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.AssemblyInfoInputs.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.AssemblyInfo.cs
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.CoreCompileInputs.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.CopyComplete
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\refint\WillFit_System.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.pdb
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.genruntimeconfig.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\POO\WillFit_System\obj\Debug\net7.0-windows\ref\WillFit_System.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.AssemblyReference.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Properties.Resources.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_Inicial.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_professor.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew..resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Aluno.Cadastrar_ALUNO.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.ALUNO.Delete_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.ALUNO.Get_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Aluno.Update_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Criar_Professor.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Gerencial_Aluno.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Get_Professores.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Treinos.Criar_Treino.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Treinos.Get_Treino.resources
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.GenerateResource.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.AssemblyInfoInputs.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.AssemblyInfo.cs
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.CoreCompileInputs.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\refint\WillFit_System.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.pdb
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.exe
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.deps.json
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.runtimeconfig.json
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.pdb
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\RestSharp.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.CopyComplete
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.genruntimeconfig.cache
+C:\Users\cayoc\OneDrive\Área de Trabalho\william felicidade\WillFit_System\obj\Debug\net7.0-windows\ref\WillFit_System.dll
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.AssemblyReference.cache
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Properties.Resources.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_aluno.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_Inicial.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.Tela_professor.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew..resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Aluno.Cadastrar_ALUNO.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.ALUNO.Delete_Aluno.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.ALUNO.Get_Aluno.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Aluno.Update_Aluno.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Criar_Professor.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Gerencial_Aluno.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Professor.Get_Professores.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Treinos.Criar_Treino.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.VIew.Treinos.Get_Treino.resources
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.GenerateResource.cache
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.AssemblyInfoInputs.cache
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.AssemblyInfo.cs
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.CoreCompileInputs.cache
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.dll
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\refint\WillFit_System.dll
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.pdb
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.exe
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.deps.json
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.runtimeconfig.json
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\WillFit_System.pdb
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\RestSharp.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\poo\WillFit_System\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.csproj.CopyComplete
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\WillFit_System.genruntimeconfig.cache
+D:\Dev\poo\WillFit_System\obj\Debug\net7.0-windows\ref\WillFit_System.dll

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Tela_aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela_Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela_professor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\ALUNO\Cadastrar_ALUNO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\ALUNO\Delete_Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\ALUNO\Get_Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\ALUNO\Update_Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\Professor\Criar_Professor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\Professor\Gerencial_Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\Professor\Get_Professores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\Treinos\Criar_Treino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VIew\Treinos\Get_Treino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

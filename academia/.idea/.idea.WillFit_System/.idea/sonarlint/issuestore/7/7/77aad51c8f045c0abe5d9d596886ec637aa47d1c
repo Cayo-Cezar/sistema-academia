@@ -1,0 +1,14 @@
+
+]csharpsquid:S3928";The parameter name '' is not declared in the argument list.(÷´“òÿÿÿÿÿ
+]csharpsquid:S3928";The parameter name '' is not declared in the argument list.(Á›ÙËüÿÿÿÿ
+ncsharpsquid:S3928)"LThe parameter name 'Digite uma cidade' is not declared in the argument list.(ğ¯ ™üÿÿÿÿ
+]csharpsquid:S39283";The parameter name '' is not declared in the argument list.(·…Îåÿÿÿÿÿ
+Ycsharpsquid:S1854\"7Remove this useless assignment to local variable 'cep'.(Ùµí€øÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ã‚ııÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Èüæœ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(€™©’
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ü›‡ÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(™‚È°ùÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Á—·¤şÿÿÿÿ
+ˆcsharpsquid:S2583"fChange this condition so that it does not always evaluate to 'False'. Some code paths are unreachable.(Á›ÙËüÿÿÿÿ
+Pcsharpsquid:S112]"5'System.Exception' should not be thrown by user code.(ìĞ€
